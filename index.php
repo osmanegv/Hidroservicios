@@ -1,19 +1,14 @@
+    <!doctype html>
+    <html lang="es">
+    <?php include("./rf/head.php"); ?>
 
-<!doctype html>
-<html lang="es">
+    <body>
 
-<?php include("./rf/head.php"); ?>
+        <?php
+        include("./rf/header.php");
+        include("./pages/content/home.php");
+        include("./rf/footer.php");
+        ?>
+    </body>
 
-<body>
-
-<?php include("./rf/header.php"); ?>
-
-<?php include("./pages/home.php"); ?>
-
-
-<?php include("./rf/footer.php"); ?>
-
-
-</body>
-
-</html>
+    </html>

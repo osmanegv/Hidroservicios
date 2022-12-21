@@ -1,6 +1,10 @@
 //jquery-click-scroll
 //by syamsul'isul' Arifin
 
+function sf(){
+    alert('sf');
+}
+
 var sectionArray = [1, 2, 3, 4, 5, 6];
 
 $.each(sectionArray, function(index, value){

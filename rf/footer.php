@@ -2,7 +2,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-12 mb-4">
-                    <img src="images/logo.png" class="logo img-fluid" alt="">
+                    <img src="/images/imagen7.png" class="img-fluid" width="200px" alt="">
                 </div>
 
                 <div class="col-lg-4 col-md-6 col-12 mb-4">
@@ -54,9 +54,9 @@
     </footer>
 
     <!-- JAVASCRIPT FILES -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.sticky.js"></script>
-    <script src="js/click-scroll.js"></script>
-    <script src="js/counter.js"></script>
-    <script src="js/custom.js"></script>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery.sticky.js"></script>
+    <script src="/js/click-scroll.js"></script>
+    <script src="/js/counter.js"></script>
+    <script src="/js/custom.js"></script>
