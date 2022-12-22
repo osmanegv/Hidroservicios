@@ -97,7 +97,7 @@
                 <!--  PRO 1 -->
                 <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                     <div class="custom-block-wrap">
-                        <img src="images/productos/1.jpg" class="custom-block-image img-fluid" alt="">
+                        <img src="/images/productos/1.jpg" class="custom-block-image img-fluid" alt="">
                         <div class="custom-block">
                             <div class="custom-block-body text-center">
                                 <p>Venta, instalación, reparación y mantenimiento de bombas para pozos artesanales, pozos mecánicos, cisternas, piscinas, ríos. </p>
@@ -114,7 +114,7 @@
                 <!--  PRO 2 -->
                 <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                     <div class="custom-block-wrap">
-                        <img src="images/productos/7.jpg" class="custom-block-image img-fluid" alt="">
+                        <img src="/images/productos/7.jpg" class="custom-block-image img-fluid" alt="">
                         <div class="custom-block">
                             <div class="custom-block-body text-center">
                                 <p> <br> Perforación de pozos artesanales y mecánicos. <br> <br> </p>
@@ -131,7 +131,7 @@
                 <!--  PRO 3 -->
                 <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-0">
                     <div class="custom-block-wrap">
-                        <img src="images/productos/10.jpg" class="custom-block-image img-fluid" alt="">
+                        <img src="/images/productos/10.jpg" class="custom-block-image img-fluid" alt="">
                         <div class="custom-block">
                             <div class="custom-block-body text-center">
                                 <p>Instalación, reparación y mantenimiento de sistemas de purificación de agua. <br> <br> </p>
@@ -180,7 +180,7 @@
                     <div class="custom-text-block text-center">
                         <h2 class="mb-0">Misión</h2>
                         <p class="text-muted mb-lg-4 mb-md-4"> </p>
-                        <p >Somos una empresa Huehueteca especializada en brindar soluciones a las necesidades
+                        <p>Somos una empresa Huehueteca especializada en brindar soluciones a las necesidades
                             relacionadas con el agua, a través de productos y servicios de alta calidad que
                             garanticen el bienestar y la inversión de nuestros clientes, por medio de la experiencia
                             y la actualización constante.</p>

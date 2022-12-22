@@ -5,7 +5,7 @@
         <div class="container">
 
             <a class="navbar-brand" href="index.php">
-                <img src="/images/imagen7.png" class="img-fluid" width="200px">
+                <img src="/images/logo.png" class="img-fluid" width="200px">
 
 
                 <span>
