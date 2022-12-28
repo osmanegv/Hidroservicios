@@ -1,9 +1,7 @@
     <!doctype html>
     <html lang="es">
     <?php include("./rf/head.php"); ?>
-
     <body>
-
         <?php
         include("./rf/header.php");
         include("./pages/content/home.php");

@@ -13,7 +13,8 @@
                 </span>
             </a>
 
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon "></span>
             </button>
 
@@ -25,7 +26,8 @@
                         <a class="nav-link text-white" href="/index.php"><i class="bi bi-slack"></i> Inicio </a>
                     </li>
                     <li class="nav-item me-3 me-lg-0">
-                        <a class="nav-link text-white" href="/pages/productos.php"><i class="bi bi-bag-dash"></i> Productos </a>
+                        <a class="nav-link text-white" href="/pages/productos.php"><i class="bi bi-bag-dash"></i>
+                            Productos </a>
                     </li>
                     <li class="nav-item me-3 me-lg-0">
                         <a class="nav-link text-white" href="#"><i class="bi bi-tools"></i> Servicios </a>

@@ -16,11 +16,13 @@
                                 <img src="/images/slide/Slide3.jpg" class="carousel-image img-fluid" alt="...">
                             </div>
                         </div>
-                        <button class="carousel-control-prev" type="button" data-bs-target="#hero-slide" data-bs-slide="prev">
+                        <button class="carousel-control-prev" type="button" data-bs-target="#hero-slide"
+                            data-bs-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                             <span class="visually-hidden">Anterior</span>
                         </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#hero-slide" data-bs-slide="next">
+                        <button class="carousel-control-next" type="button" data-bs-target="#hero-slide"
+                            data-bs-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
                             <span class="visually-hidden">Siguiente</span>
                         </button>
@@ -42,7 +44,9 @@
                     <div class="custom-text-box">
                         <h2 class="mb-2">Nuestra Historia</h2>
                         <h5 class="mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h5>
-                        <p class="mb-0">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga facilis veniam suscipit voluptate quisquam eum enim impedit iure laboriosam hic, autem est aliquid quas magni necessitatibus saepe consectetur nostrum dignissimos?</p>
+                        <p class="mb-0">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga facilis veniam
+                            suscipit voluptate quisquam eum enim impedit iure laboriosam hic, autem est aliquid quas
+                            magni necessitatibus saepe consectetur nostrum dignissimos?</p>
                     </div>
                     <div class="row">
                         <div class="col-lg-6 col-md-6 col-12">
@@ -65,14 +69,16 @@
                             <div class="custom-text-box d-flex flex-wrap d-lg-block mb-lg-0">
                                 <div class="counter-thumb">
                                     <div class="d-flex">
-                                        <span class="counter-number" data-from="1" data-to="2009" data-speed="1000"></span>
+                                        <span class="counter-number" data-from="1" data-to="2009"
+                                            data-speed="1000"></span>
                                         <span class="counter-number-text"></span>
                                     </div>
                                     <span class="counter-text">Founded</span>
                                 </div>
                                 <div class="counter-thumb mt-4">
                                     <div class="d-flex">
-                                        <span class="counter-number" data-from="1" data-to="120" data-speed="1000"></span>
+                                        <span class="counter-number" data-from="1" data-to="120"
+                                            data-speed="1000"></span>
                                         <span class="counter-number-text">B</span>
                                     </div>
                                     <span class="counter-text">Donations</span>
@@ -100,9 +106,11 @@
                         <img src="/images/productos/1.jpg" class="custom-block-image img-fluid" alt="">
                         <div class="custom-block">
                             <div class="custom-block-body text-center">
-                                <p>Venta, instalación, reparación y mantenimiento de bombas para pozos artesanales, pozos mecánicos, cisternas, piscinas, ríos. </p>
+                                <p>Venta, instalación, reparación y mantenimiento de bombas para pozos artesanales,
+                                    pozos mecánicos, cisternas, piscinas, ríos. </p>
                                 <div class="progress mt-4">
-                                    <div class="progress-bar w-100" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                    <div class="progress-bar w-100" role="progressbar" aria-valuenow="100"
+                                        aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                             </div>
                             <a class="custom-btn btn"></a>
@@ -119,7 +127,8 @@
                             <div class="custom-block-body text-center">
                                 <p> <br> Perforación de pozos artesanales y mecánicos. <br> <br> </p>
                                 <div class="progress mt-4">
-                                    <div class="progress-bar w-100" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                    <div class="progress-bar w-100" role="progressbar" aria-valuenow="100"
+                                        aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                             </div>
                             <a class="custom-btn btn"></a>
@@ -134,9 +143,11 @@
                         <img src="/images/productos/10.jpg" class="custom-block-image img-fluid" alt="">
                         <div class="custom-block">
                             <div class="custom-block-body text-center">
-                                <p>Instalación, reparación y mantenimiento de sistemas de purificación de agua. <br> <br> </p>
+                                <p>Instalación, reparación y mantenimiento de sistemas de purificación de agua. <br>
+                                    <br> </p>
                                 <div class="progress mt-4">
-                                    <div class="progress-bar w-100" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                    <div class="progress-bar w-100" role="progressbar" aria-valuenow="100"
+                                        aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                             </div>
                             <a class="custom-btn btn"></a>
@@ -155,7 +166,8 @@
                             <div class="custom-block-body text-center">
                                 <p>Instalación, reparación y mantenimiento de calentadores eléctricos y solares. </p>
                                 <div class="progress mt-4">
-                                    <div class="progress-bar w-100" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                                    <div class="progress-bar w-100" role="progressbar" aria-valuenow="100"
+                                        aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                             </div>
                             <a class="custom-btn btn"></a>
@@ -232,7 +244,8 @@
                     <div class="featured-block d-flex justify-content-center align-items-center">
                         <a class="d-block">
                             <img src="images/icons/hands.png" class="featured-block-image img-fluid" alt="">
-                            <p> <br> <strong>Justicia</strong> <br> Principio moral que inclina a obrar y juzgar respetando la verdad y dando a cada uno lo que le corresponde.</p>
+                            <p> <br> <strong>Justicia</strong> <br> Principio moral que inclina a obrar y juzgar
+                                respetando la verdad y dando a cada uno lo que le corresponde.</p>
                         </a>
                     </div>
                 </div>
@@ -243,7 +256,8 @@
                     <div class="featured-block d-flex justify-content-center align-items-center">
                         <a class="d-block">
                             <img src="images/icons/accept.png" class="featured-block-image img-fluid" alt="">
-                            <p> <br> <strong>Verdad</strong> <br> Da sentido al respeto ante los demás hombres, es uno de los pilares básicos sobre la conciencia moral. </p>
+                            <p> <br> <strong>Verdad</strong> <br> Da sentido al respeto ante los demás hombres, es uno
+                                de los pilares básicos sobre la conciencia moral. </p>
                         </a>
                     </div>
                 </div>
@@ -254,7 +268,8 @@
                     <div class="featured-block d-flex justify-content-center align-items-center">
                         <a class="d-block">
                             <img src="images/icons/receive.png" class="featured-block-image img-fluid" alt="">
-                            <p> <br> <strong>Solidaridad</strong><br>Apoyo incondicional a causas ajenas, especialmente en situaciones comprometidas o difíciles. </p>
+                            <p> <br> <strong>Solidaridad</strong><br>Apoyo incondicional a causas ajenas, especialmente
+                                en situaciones comprometidas o difíciles. </p>
                         </a>
                     </div>
                 </div>
@@ -265,7 +280,8 @@
                     <div class="featured-block d-flex justify-content-center align-items-center">
                         <a class="d-block">
                             <img src="images/icons/respon.png" class="featured-block-image img-fluid" alt="">
-                            <p> <br> <strong>Responsabilidad</strong> <br><br>Responder oportunamente con los productos o servicios ofrecidos.</p>
+                            <p> <br> <strong>Responsabilidad</strong> <br><br>Responder oportunamente con los productos
+                                o servicios ofrecidos.</p>
                         </a>
                     </div>
                 </div>
@@ -276,7 +292,8 @@
                     <div class="featured-block d-flex justify-content-center align-items-center">
                         <a class="d-block">
                             <img src="images/icons/respe.png" class="featured-block-image img-fluid" alt="">
-                            <p> <br> <strong>Respeto</strong> <br> Fundamentar los actos con respeto a diferencia de pensamiento y opinión, manifestando consideración hacia los demás.</p>
+                            <p> <br> <strong>Respeto</strong> <br> Fundamentar los actos con respeto a diferencia de
+                                pensamiento y opinión, manifestando consideración hacia los demás.</p>
                         </a>
                     </div>
                 </div>
@@ -287,7 +304,8 @@
                     <div class="featured-block d-flex justify-content-center align-items-center">
                         <a class="d-block">
                             <img src="images/icons/confiabilidad.png" class="featured-block-image img-fluid" alt="">
-                            <p> <br> <strong>Confiabilidad</strong><br>Es la creencia en que una persona será capaz de actuar de manera adecuada en una determinada situación y pensamientos.</p>
+                            <p> <br> <strong>Confiabilidad</strong><br>Es la creencia en que una persona será capaz de
+                                actuar de manera adecuada en una determinada situación y pensamientos.</p>
                         </a>
                     </div>
                 </div>
@@ -298,7 +316,8 @@
                     <div class="featured-block d-flex justify-content-center align-items-center">
                         <a class="d-block">
                             <img src="images/icons/help.png" class="featured-block-image img-fluid" alt="">
-                            <p> <br> <strong>Ayuda al prójimo</strong><br>Un espíritu universal y abierto para estrechar sus manos con las manos del que sufre, sin importarle el credo, política o religión.</p>
+                            <p> <br> <strong>Ayuda al prójimo</strong><br>Un espíritu universal y abierto para estrechar
+                                sus manos con las manos del que sufre, sin importarle el credo, política o religión.</p>
                         </a>
                     </div>
                 </div>
@@ -334,7 +353,8 @@
                             <div class="carousel-item active">
                                 <div class="carousel-caption">
                                     <h6>Estamos a su disposición para ayudarle con la instalación,
-                                        la resolución de problemas y la asistencia técnica. No dude en llamarnos en cualquier
+                                        la resolución de problemas y la asistencia técnica. No dude en llamarnos en
+                                        cualquier
                                         momento durante nuestro horario comercial habitual. <br></h6>
                                 </div>
                             </div>
@@ -356,7 +376,8 @@
                         <h2>Get in touch</h2>
 
                         <div class="contact-image-wrap d-flex flex-wrap">
-                            <img src="images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg" class="img-fluid avatar-image" alt="">
+                            <img src="images/avatar/pretty-blonde-woman-wearing-white-t-shirt.jpg"
+                                class="img-fluid avatar-image" alt="">
 
                             <div class="d-flex flex-column justify-content-center ms-3">
                                 <p class="mb-0">Clara Barton</p>
@@ -402,17 +423,21 @@
                         </p>
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-12">
-                                <input type="text" name="first-name" id="first-name" class="form-control" placeholder="Jack" required>
+                                <input type="text" name="first-name" id="first-name" class="form-control"
+                                    placeholder="Jack" required>
                             </div>
 
                             <div class="col-lg-6 col-md-6 col-12">
-                                <input type="text" name="last-name" id="last-name" class="form-control" placeholder="Doe" required>
+                                <input type="text" name="last-name" id="last-name" class="form-control"
+                                    placeholder="Doe" required>
                             </div>
                         </div>
 
-                        <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Jackdoe@gmail.com" required>
+                        <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control"
+                            placeholder="Jackdoe@gmail.com" required>
 
-                        <textarea name="message" rows="5" class="form-control" id="message" placeholder="What can we help you?"></textarea>
+                        <textarea name="message" rows="5" class="form-control" id="message"
+                            placeholder="What can we help you?"></textarea>
 
                         <button type="submit" class="form-control">Send Message</button>
                     </form>
