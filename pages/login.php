@@ -5,8 +5,8 @@
     <body>
         <?php
         include("../rf/header.php");
-        include("./content/productos.php");
-        include("../rf/footer.php");
+        include("./content/login.php");
+        // include("../rf/footer.php");
         ?>
     </body>
 

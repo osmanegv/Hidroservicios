@@ -4,7 +4,7 @@
 
         <div class="container">
 
-            <a class="navbar-brand" href="index.php">
+            <a class="navbar-brand" href="/index.php">
                 <img src="/images/logo.png" class="img-fluid" width="200px">
 
 
@@ -33,7 +33,7 @@
                         <a class="nav-link text-white" href="#"><i class="bi bi-tools"></i> Servicios </a>
                     </li>
                     <li class="nav-item me-3 me-lg-0">
-                        <a class="nav-link text-white" href="#"><i class="bi bi-person-circle"></i></i> </a>
+                        <a class="nav-link text-white" href="/pages/login.php"><i class="bi bi-person-circle"></i></i> </a>
                     </li>
                 </ul>
 
